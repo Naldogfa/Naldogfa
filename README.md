@@ -1,5 +1,5 @@
 {
-    "Version": "88",
+    "Version": "000",
     "ReleaseNotes": "Check user on",
     "Sms": "https://painel-evertec.x10.mx/update/conecta/sxODX/sms",
     "UrlUpdate": "ttps://bitbin.it/rBIqKJ2l/raw/",
